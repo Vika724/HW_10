@@ -1,0 +1,63 @@
+    1  cd "\C:\Users\Asus\OneDrive\Робочий стіл"
+    2  pwd
+    3  cd "/c:/Users/Asus/OneDrive/Робочий стіл"
+    4  ls -s
+    5  cd c/User/Asus/Dowloads
+    6  pwd
+    7  clear
+    8  cd: '/C:/Users/Asus/OneDrive/Робочий стіл'
+    9  cd: /c:/Users/Asus/OneDrive/HW
+   10  cd /c:/Users/Asus/OneDrive/HW
+   11  cd /c/Users/Asus/OneDrive/HW
+   12  git config --global user.name Vika724
+   13  git config --global user.email vkuzmenko724@gmail.com
+   14  git config --get user.name 
+   15  git config --get user.email
+   16  ls -l
+   17  git clone https://github.com/Vika724/HW_10.git
+   18  cd HW_10
+   19  touch  text_ignore.txt
+   20  ls -l
+   21  vim .gitignore 
+   22  git status
+   23  git add
+   24  git add.
+   25  git status
+   26  git add.
+   27  git add /
+   28  git add .
+   29  git commit -m 'edited file'
+   30  git status
+   31  git log
+   32  ls -l
+   33  git push 
+   34  git status
+   35  touch main_test.txt
+   36  git add .
+   37  git commit -m 'added new file'
+   38  git status 
+   39  git push
+   40  git checkout -b develop
+   41  touch develop_test.txt
+   42  ls -l
+   43  git add .
+   44  git commit -m 'created new file'
+   45  vim develop_test.txt
+   46  git status
+   47  git add .
+   48  git commit -m 'added changes'
+   49  git checkout main
+   50  checkout develop
+   51  git checkout develop 
+   52  ls -l
+   53  git push
+   54  git push original develop
+   55  git push origin develop
+   56  git checkout main
+   57  git marge develope
+   58  git merge develop
+   59  git log
+   60  git push
+   61  get log
+   62  git log
+   63  history > command_list.csv
